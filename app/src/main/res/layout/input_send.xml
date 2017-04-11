@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/wrapperLl"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    tools:showIn="@layout/dialog_fragment_createchat">
+
+    <EditText
+        android:background="@color/colorWhite"
+        android:id="@+id/emailEt"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="54dp" />
+
+    <ImageButton
+        android:background="@drawable/bg_btn_accent"
+        android:id="@+id/searchBtn"
+        android:layout_width="54dp"
+        android:layout_height="53dp"
+        android:src="@mipmap/ic_send_white_24dp" />
+
+</LinearLayout>

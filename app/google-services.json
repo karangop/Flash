@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749216915821",
+    "firebase_url": "https://flash-7eaa3.firebaseio.com",
+    "project_id": "flash-7eaa3",
+    "storage_bucket": "flash-7eaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749216915821:android:db1c2f137d51066d",
+        "android_client_info": {
+          "package_name": "cl.karangop.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749216915821-f9es7e5ja9fuhqj69juroljjohotacqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.karangop.flash",
+            "certificate_hash": "8f1f1fdba222a0b108ab26717f39eebe0307e846"
+          }
+        },
+        {
+          "client_id": "749216915821-tl3lkq2gj2g00778216dsg5hr9qdkha2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKmBPQ18tazs1N4DMp1DBErhWVHPlW_7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749216915821-tl3lkq2gj2g00778216dsg5hr9qdkha2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

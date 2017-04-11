@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flash</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <!--AUTH FACEBOOK-->
+    <string name="facebook_application_id" translatable="false">283192375447657</string>
+    <!-- Facebook Application ID, prefixed by 'fb'.  Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb283192375447657</string>
+
+
+    <!--AUTH TWITTER-->
+    <string name="twitter_consumer_key" translatable="false">NU3pa06k1JCCkAKoefGfe6qbV</string>
+    <string name="twitter_consumer_secret" translatable="false">KJf6uHbzsIHEnjnsktdMR2z4u5mXu1GDtT6xzmDnlvrSv3cTsG</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
